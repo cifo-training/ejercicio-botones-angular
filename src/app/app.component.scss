@@ -1,0 +1,15 @@
+h1{
+  margin-left:3rem;
+}
+.container-fluid{
+
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn{
+  width: 25%;
+}
+/* .btn:disabled{
+  opacity: 0.5;
+} */
